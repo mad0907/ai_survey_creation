@@ -59,9 +59,10 @@ Open the notebook file and run cells sequentially.
 
 🤖 Model Used
 gemini-2.5-flash
+
 You can change the model in .env if needed.
 
-🔧 Google Apps Script Setup
+## 🔧 Google Apps Script Setup
 In the repo, you will find a JavaScript (.js) file.
 
 Copy the entire code.
@@ -84,7 +85,7 @@ Copy the Deployment URL.
 
 Replace the APPS_SCRIPT_URL in Python code.
 
-🔄 How the Flow Works
+## 🔄 How the Flow Works
 Step-by-Step Flow
 User Input
 
@@ -126,7 +127,7 @@ Sheet Link
 
 Edit Form Link
 
-📁 Project Structure
+## 📁 Project Structure
 project/
 │
 ├── notebook.ipynb
